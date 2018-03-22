@@ -16,7 +16,7 @@ Je ne sais pas si l'application sera programmée en anglais (peut-être Phaser.j
 
 ***
 Voici un exemple de code:
-``` linotte
+``` python
 /*
 Cliquez sur le bouton LIRE pour exécuter ce programme très simple
 */
